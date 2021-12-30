@@ -1,2 +1,2 @@
 # pythonroad
-Colocarei aqui toda minha experiência e desenvolvimento com python
+Aqui colocarei minhas experiências com a linguagem Python para analisar meu desenvolvimento 
